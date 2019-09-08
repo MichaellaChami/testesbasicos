@@ -1,0 +1,23 @@
+body {
+color: #ff5591;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+figure {
+background-color: #63575c;
+border: 1px solid #ec0964;
+text-align: center;
+}
+figcaption {
+font-style: italic;
+}
+
+h1 {
+background-image: url(images/borda.png);
+}
+#teste{
+color: #dbc5fd;
+}
+h2 {
+border-bottom: 2px solid #333333;
+}
